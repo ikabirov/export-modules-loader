@@ -1,0 +1,13 @@
+{
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "export-modules-loader",
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikabirov/export-modules-loader.git"
+  },
+  "version": "1.0.0"
+}
